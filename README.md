@@ -9,4 +9,15 @@ Diante disso, a principal sugestão, então, é a criação de um hotsite com co
 
 Quando acessarem, além do conteúdo, vão poder interagir com um chatbot, que através de perguntas simples irão traçar seu perfil de líder e montar seu mini profiler, que não será um arquivo de texto objetivo. Ele será interpretado por um avatar 3D objetivando personalizar e humanizar este contato, além de surpreendê-lo. Ao final da interpretação do perfil, o CEO receberá o link, usuário e senha para utilizar a versão Trial do produto. Na página sequencial, serão reforçados os benefícios que o Profiler pode trazer para sua empresa.
 
+
+
+# Manual
+
 Tecnologia base: JavaScript, HTML5 e CSS3
+
+A pasta central é todo pacote front-end, a codificação em javaScript encontra-se em ".../assets/js"
+
+→ Código está todo comentado;
+
+→ A implementação com o avatar é opcional, podendo também ser o envio de um vídeo gravado por humano. A idéia é que com o passar do amadurecimento do projeto, implemente-se o avatar como forma de escalonar a estratégia.
+
