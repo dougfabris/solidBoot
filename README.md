@@ -19,5 +19,7 @@ A pasta central é todo pacote front-end, a codificação em javaScript encontra
 
 → Código está todo comentado;
 
+→ É necessário a implementação do algoritmo do profiler na lógica do bot para eficácia real do projeto e uma devolutiva acertiva;
+
 → A implementação com o avatar é opcional, podendo também ser o envio de um vídeo gravado por humano. A idéia é que com o passar do amadurecimento do projeto, implemente-se o avatar como forma de escalonar a estratégia.
 
