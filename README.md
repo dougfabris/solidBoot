@@ -1,6 +1,5 @@
 # solidBot
 Hotsite com Chatbot integrado para Formulação de Mini Profiler sobre Liderança
-
 Através de nossa pesquisa sobre o perfil da Solides nas principais redes sociais e em seus site e blogs, constatamos que o conteúdo produzido é muito rico, muito educativo, mas é focado somente nos gestores de RH. Portanto, é pouco estratégico, não visa os CEOS, diretores, que são os decisores nos processos de contratação.
 
 Diante disso, a principal sugestão, então, é a criação de um hotsite com conteúdo mais relevante, que aborde números impactantes para alta gestão, como, por exemplo, “como aumentar seu faturamento contratando as pessoas certas ou quanto você perde quando contrata errado ou quando não investe nas pessoas da sua empresa”.
